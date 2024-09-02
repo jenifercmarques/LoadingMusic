@@ -1,4 +1,3 @@
-```markdown
 # 🎼Loading Music
 Este projeto é um carregador de música que proporciona uma experiência visual enquanto o conteúdo da página é carregado. Ele é ideal para sites que desejam manter os usuários engajados durante o tempo de carregamento.
 
