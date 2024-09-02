@@ -23,6 +23,3 @@ Você pode acessar a demonstração do projeto [aqui](https://jenifercmarques.gi
 
 ## 📝 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
-
-Se precisar de mais alguma coisa ou ajustes, é só me avisar!
